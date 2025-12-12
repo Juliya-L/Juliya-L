@@ -52,23 +52,13 @@ Every day, I push myself to learn fast, grow stronger, and build beautifully cra
 
 ## 🌟 **GitHub Stats & Insights**
 
-<!-- General Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Juliya-L&show_icons=true&hide_border=true&title_color=ff77aa&icon_color=ff99c8&text_color=f6d6e7&bg_color=00000000"
-  width="450"
-/>
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juliya-L&theme=tokyonight)
 
-<!-- Most Used Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliya-L&layout=compact&hide_border=true&title_color=ff77aa&text_color=f6d6e7&bg_color=00000000"
-  width="350"
-/>
+![Demo Stats](https://streak-stats.demolab.com?user=Juliya-L&theme=tokyonight&hide_border=true)
 
-<!-- Streak -->
-<img
-  src="https://streak-stats.demolab.com?user=Juliya-L&background=00000000&border=00000000&stroke=ffb6d5&ring=ff99c8&fire=ff77aa&currStreakLabel=ff77aa&sideNums=f6d6e7&sideLabels=ffbde0&dates=f6d6e7"
-  width="480"
-/>
+![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Juliya-L?cardType=level&theme=tokyonight)
+
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juliya-L&theme=tokyonight)
 
 ---
 

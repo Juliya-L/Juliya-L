@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- 🌸 Top Girl Coding Vector GIF -->
-<img src="https://github.com/CanReader/CanReader/blob/main/Assets/Girl%20on%20Computer%20with%20Idea.gif?raw=true" width="230" />
-
 # ✨ **Hi, I'm Juliya** ✨
 ### 💗 *Passionate Developer • Fast Learner • Creativity Lover*
 

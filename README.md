@@ -57,7 +57,7 @@ Constantly learning and improving my skills in backend and web development.
 
 ---
 
-## 🌟 **GitHub Stats & Insights**
+## ✨ **GitHub Stats & Insights**
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juliya-L&theme=tokyonight)
 
@@ -72,11 +72,11 @@ Constantly learning and improving my skills in backend and web development.
 ## 💗 **Connect With Me**
 
 <a href="https://github.com/Juliya-L">
-  <img src="https://img.shields.io/badge/GitHub-ffb6d5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-3a3345?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 ✨ *Thank you for visiting my profile!* ✨  
-🌸 *Have a beautiful and productive day!* 🌸
+✨ *Have a beautiful and productive day!* ✨
 
 </div>

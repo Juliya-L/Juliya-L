@@ -30,8 +30,7 @@ Every day, I push myself to learn fast, grow stronger, and build beautifully cra
 
 ### 💕 **Other Tools**
 <p>
-  <img src="https://img.shields.io/badge/Java-fdcfe7?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-ffb3d1?style=for-the-badge&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/Git-ffb3d1?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-f6a7cf?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-f8c1da?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>

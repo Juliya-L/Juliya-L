@@ -50,10 +50,10 @@ Constantly learning and improving my skills in backend and web development.
 
 ## ✨ **A Little About Me**
 
-🌸 I love creating aesthetic, clean, and impactful applications  
-🌸 I learn extremely fast and enjoy exploring new technologies  
-🌸 I value elegant UI, structured code, and continuous improvement  
-🌸 My dream path: full-stack developer with strong creative sense  
+• I love creating clean, aesthetic, and meaningful applications  
+• I learn fast and enjoy exploring new technologies  
+• I value structured code, elegant UI, and continuous improvement  
+• Working toward becoming a full-stack developer  
 
 ---
 

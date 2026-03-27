@@ -45,7 +45,7 @@ Focused on backend development with Python, growing into full-stack.
 I focus on writing clean, structured code and building reliable systems.
 Constantly learning and improving my skills in backend and web development.
 
-</div>
+
 
 
 ## ✨ **A Little About Me**

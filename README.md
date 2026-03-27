@@ -1,41 +1,52 @@
 <div align="center">
 
-# ✨ **Hi, I'm Juliya** ✨
-### 💗 *Passionate Developer • Fast Learner • Creativity Lover*
+# ✨ Hi, I'm Juliya
 
-I enjoy building elegant, functional, and meaningful applications.  
-I specialize in Python backend development and love exploring modern web technologies.  
-Every day, I push myself to learn fast, grow stronger, and build beautifully crafted software.
+### Python Backend Developer • Future Full-Stack Engineer
+
+I build clean, scalable and meaningful applications.
+Focused on backend development with Python, growing into full-stack.
 
 ---
 
-## 🌷 **Tech Stack & Tools**
+## 🛠 Tech Stack
 
-### 🐍 **Backend & Databases**
+### Backend & Databases
+
 <p>
-  <img src="https://img.shields.io/badge/Python-ffb6d5?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-f8cce4?style=for-the-badge&logo=django&logoColor=092E20" />
-  <img src="https://img.shields.io/badge/Flask-fbd3e9?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-2b2b3c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-3a2f4a?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-4b3a5a?style=for-the-badge&logo=flask&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/MySQL-f5a9c5?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-f9c8dd?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-3c2f45?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-4a3a55?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🌸 **Frontend & Scripting**
+### Frontend & Scripting
+
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-ffa8d6?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-ffbde0?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-ffcae9?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-352a40?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-40314f?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-4d3a5e?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-### 💕 **Other Tools**
+### Tools
+
 <p>
-   <img src="https://img.shields.io/badge/Git-ffb3d1?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-f6a7cf?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-f8c1da?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2e2a38?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-3a3345?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-463d52?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
+
+## About Me
+
+I focus on writing clean, structured code and building reliable systems.
+Constantly learning and improving my skills in backend and web development.
+
+</div>
+
 
 ## ✨ **A Little About Me**
 

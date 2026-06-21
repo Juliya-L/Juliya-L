@@ -16,7 +16,7 @@ Focused on backend development with Python, growing into full-stack.
 <p>
   <img src="https://img.shields.io/badge/Python-2b2b3c?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-3a2f4a?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-4b3a5a?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-4b3a5a?style=for-the-badge&logo=flask&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/MySQL-3c2f45?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-4a3a55?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -26,7 +26,6 @@ Focused on backend development with Python, growing into full-stack.
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-352a40?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-40314f?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-4d3a5e?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 

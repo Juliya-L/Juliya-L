@@ -1,81 +1,31 @@
 <div align="center">
 
-# ✨ Hi, I'm Juliya
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=160&section=header&text=&fontsize=0" />
+<br/>
 
-### Python Backend Developer • Future Full-Stack Engineer
-
-I build clean, scalable and meaningful applications.
-Focused on backend development with Python, growing into full-stack.
-
----
-
-## 🛠 Tech Stack
-
-### Backend & Databases
-
-<p>
-  <img src="https://img.shields.io/badge/Python-2b2b3c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-3a2f4a?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-4b3a5a?style=for-the-badge&logo=flask&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-3c2f45?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-4a3a55?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### Frontend & Scripting
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-352a40?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-4d3a5e?style=for-the-badge&logo=react&logoColor=white" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-2e2a38?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-3a3345?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-463d52?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-## About Me
-
-I focus on writing clean, structured code and building reliable systems.
-Constantly learning and improving my skills in backend and web development.
-
-
-
-
-## ✨ **A Little About Me**
-
-• I love creating clean, aesthetic, and meaningful applications  
-• I learn fast and enjoy exploring new technologies  
-• I value structured code, elegant UI, and continuous improvement  
-• Working toward becoming a full-stack developer  
-
----
-
-## ✨ **GitHub Stats & Insights**
-
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juliya-L&theme=tokyonight)
-
-![Demo Stats](https://streak-stats.demolab.com?user=Juliya-L&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Juliya-L?cardType=level&theme=tokyonight)
-
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juliya-L&theme=tokyonight)
-
----
-
-## 💗 **Connect With Me**
-
-<a href="https://github.com/Juliya-L">
-  <img src="https://img.shields.io/badge/GitHub-3a3345?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=19E9EEEE&background=20FF3400&center=true&vCenter=true&width=710&lines=Python+%2F+Django+Backend+Developer;Building+REST+APIs+with+DRF;Always+learning+new+things;Open+to+Trainee+%2F+Junior+roles)](https://git.io/typing-svg)
 <br/><br/>
-✨ *Thank you for visiting my profile!* ✨  
-✨ *Have a beautiful and productive day!* ✨
+
+<h2>🧰 Tech Stack</h2>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /><br>Python</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" /><br>Django</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" /><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" /><br>REST API</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" /><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" /><br>Docker<br><sub>(learning)</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 </div>

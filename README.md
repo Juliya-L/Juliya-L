@@ -17,10 +17,12 @@
       <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
       <br>FastAPI
     </td>
+    
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
+      <img src="https://img.shields.io/badge/REST-API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
       <br>REST API
     </td>
+
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
       <br>PostgreSQL
@@ -32,8 +34,7 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
       <br>Docker
-      <br><sub>(learning)</sub>
-    </td>
+         </td>
   </tr>
 </table>
 

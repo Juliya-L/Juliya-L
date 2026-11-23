@@ -17,10 +17,7 @@
       <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
       <br>FastAPI
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openapi/6BA539" alt="OpenAPI" width="48" height="48" />
-      <br>REST API
-    </td>
+    
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
       <br>PostgreSQL
